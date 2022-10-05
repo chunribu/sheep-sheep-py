@@ -1,0 +1,7 @@
+title: sheep-sheep-py
+theme: jekyll-theme-modernist
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
