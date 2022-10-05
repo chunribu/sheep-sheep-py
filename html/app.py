@@ -363,7 +363,7 @@ class App:
         self.w = 15
         self.h = 15
         pyxel.init(40*self._scale, 24*self._scale, "羊了个羊-复古版-github.com/chunribu", display_scale=2)
-        pyxel.load('../assets/sheepgame.pyxres')
+        pyxel.load('sheepgame.pyxres')
         pyxel.mouse(True)
         self.clickables = []
         self.framekeeping = 0
