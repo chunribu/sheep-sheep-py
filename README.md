@@ -5,7 +5,7 @@ A Python implementation of the game [Sheep Sheep（羊了个羊）](https://zh.w
 <img src="assets/screenshot.png" width=600>
 
 ## Give it a try
-Try the **online version** immediately at [https://chunribu.github.io/sheep-sheep-py/html](https://chunribu.github.io/sheep-sheep-py/html).
+Try the **online version** immediately at [https://sheep-sheep-py.netlify.app](https://sheep-sheep-py.netlify.app).
 
 There is a **standalone version** in the [Releases](https://github.com/chunribu/sheep-sheep-py/releases). Download the `.EXE` file if you want to play the game on your own laptop. No installation required. If you get a security warning on Windows 11, ignore it please.（国内下载：[百度网盘](https://pan.baidu.com/s/1XIA74p2hl_YFQEWk8qk4Dg?pwd=srw0)）
 
